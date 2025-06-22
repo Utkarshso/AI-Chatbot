@@ -27,6 +27,12 @@ This is a lightweight and powerful AI chatbot that runs on **Google Colab**, pow
 
 ---
 
+## ⚙️ ngrok token setup
+- Use ngrok account(or token) to run this model
+- Use your ngrok token on ollama url: <Auth Token> to get access without any problem
+
+---
+
 ## 🛠️ Setup Guide
 
 ### 1. 🔗 Clone the Repo
@@ -35,8 +41,5 @@ This is a lightweight and powerful AI chatbot that runs on **Google Colab**, pow
 git clone https://github.com/Utkarshso/AI-Chatbot
 cd AI-Chatbot
 
-### 2. ngrok token setup
-- Use ngrok account(or token) to run this model
-- Use your ngrok token on ollama url: <Auth Token> to get access without any problem
 
 
