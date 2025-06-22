@@ -4,6 +4,10 @@ This is a lightweight and powerful AI chatbot that runs on **Google Colab**, pow
 
 ---
 
+## URL:- https://ai-chatbot-5wgy8t2m4capdeneyfawds.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - ✅ Chat with LLaMA 3.2 via Ollama
