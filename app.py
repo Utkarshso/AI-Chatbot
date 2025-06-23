@@ -5,7 +5,7 @@ import time
 import os
 
 model = "llama3.2"  
-ollama_url = "https://fcd6-34-44-111-224.ngrok-free.app/api/chat"  # Replace with your Ollama API URL
+ollama_url = "https://0354-35-230-8-80.ngrok-free.app/api/chat"  # Replace with your Ollama API URL
 
 def response_generator(msg_content):
     lines = msg_content.split('\n')
